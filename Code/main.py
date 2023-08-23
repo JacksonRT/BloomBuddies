@@ -1,7 +1,7 @@
 import pygame
 pygame.init()
 
-pygame.display.set_caption('Connectz')
+pygame.display.set_caption('Bloom Buddies')
 
 screen = pygame.display.set_mode([800, 800])
 fps = 60
